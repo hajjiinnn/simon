@@ -1,4 +1,5 @@
 #!/bin/bash
+# ./deployFiles.sh -k ~/downloads/hodu.pem  -h conniehajin.click  -s simom               
 
 while getopts k:h:s: flag
 do
