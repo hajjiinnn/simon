@@ -1,4 +1,5 @@
 # simon
+It was pretty cool to see that all the data remains accessible because it is stored in a database persistently vs being wiped every time the service is restarted. I still don't understand all of the code completely, but I definitely want to dig in deeper as it seems like it's pretty essential to running a properly functioning site/application. 
 
 I learned that you can push from your terminal and that is super cool. I also learned how to better use VS Code and it is so much easier
 
